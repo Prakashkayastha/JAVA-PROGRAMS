@@ -1,0 +1,791 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Addclass",
+            "request": "launch",
+            "mainClass": "Addclass",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Addscann",
+            "request": "launch",
+            "mainClass": "Addscann",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Addsubmat",
+            "request": "launch",
+            "mainClass": "Addsubmat",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Arraybinsearch",
+            "request": "launch",
+            "mainClass": "Arraybinsearch",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Arraysearch",
+            "request": "launch",
+            "mainClass": "Arraysearch",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Arrayselsort",
+            "request": "launch",
+            "mainClass": "Arrayselsort",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Arraysum",
+            "request": "launch",
+            "mainClass": "Arraysum",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Assignment3.Array1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Assignment3.Array2",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Assignment3.Array3",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array4",
+            "request": "launch",
+            "mainClass": "Assignment3.Array4",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array5",
+            "request": "launch",
+            "mainClass": "Assignment3.Array5",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array6",
+            "request": "launch",
+            "mainClass": "Assignment3.Array6",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Array7",
+            "request": "launch",
+            "mainClass": "Assignment3.Array7",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject1",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject10",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject10",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject11",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject11",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject12",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject12",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject2",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject2",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject3",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject3",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject5",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject5",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject7",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject7",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject8",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject8",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Classandobject9",
+            "request": "launch",
+            "mainClass": "Assignment3.Classandobject9",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Poly1",
+            "request": "launch",
+            "mainClass": "Assignment3.Poly1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Poly3",
+            "request": "launch",
+            "mainClass": "Assignment3.Poly3",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Poly5",
+            "request": "launch",
+            "mainClass": "Assignment3.Poly5",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Poly6",
+            "request": "launch",
+            "mainClass": "Assignment3.Poly6",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Consucativesum",
+            "request": "launch",
+            "mainClass": "Consucativesum",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Eight",
+            "request": "launch",
+            "mainClass": "Eight",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevena",
+            "request": "launch",
+            "mainClass": "Elevena",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevenb",
+            "request": "launch",
+            "mainClass": "Elevenb",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevenc",
+            "request": "launch",
+            "mainClass": "Elevenc",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevend",
+            "request": "launch",
+            "mainClass": "Elevend",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevene",
+            "request": "launch",
+            "mainClass": "Elevene",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevenf",
+            "request": "launch",
+            "mainClass": "Elevenf",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Eleveng",
+            "request": "launch",
+            "mainClass": "Eleveng",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Elevenh",
+            "request": "launch",
+            "mainClass": "Elevenh",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Eleveni",
+            "request": "launch",
+            "mainClass": "Eleveni",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fcaeandplace",
+            "request": "launch",
+            "mainClass": "Fcaeandplace",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Five",
+            "request": "launch",
+            "mainClass": "Five",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fourdigitvi",
+            "request": "launch",
+            "mainClass": "Fourdigitvi",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fourdigitvii",
+            "request": "launch",
+            "mainClass": "Fourdigitvii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fouri",
+            "request": "launch",
+            "mainClass": "Fouri",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fourii",
+            "request": "launch",
+            "mainClass": "Fourii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fouriii",
+            "request": "launch",
+            "mainClass": "Fouriii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Fouriv",
+            "request": "launch",
+            "mainClass": "Fouriv",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Heirarchicalinh",
+            "request": "launch",
+            "mainClass": "Heirarchicalinh",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Inverse",
+            "request": "launch",
+            "mainClass": "Inverse",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Istcode",
+            "request": "launch",
+            "mainClass": "Istcode",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Nine",
+            "request": "launch",
+            "mainClass": "Nine",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Numbermax",
+            "request": "launch",
+            "mainClass": "Numbermax",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oddevensum",
+            "request": "launch",
+            "mainClass": "Oddevensum",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onei",
+            "request": "launch",
+            "mainClass": "Onei",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oneii",
+            "request": "launch",
+            "mainClass": "Oneii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oneiii",
+            "request": "launch",
+            "mainClass": "Oneiii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oneiv",
+            "request": "launch",
+            "mainClass": "Oneiv",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oneix",
+            "request": "launch",
+            "mainClass": "Oneix",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onev",
+            "request": "launch",
+            "mainClass": "Onev",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onevi",
+            "request": "launch",
+            "mainClass": "Onevi",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onevii",
+            "request": "launch",
+            "mainClass": "Onevii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Oneviii",
+            "request": "launch",
+            "mainClass": "Oneviii",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onex",
+            "request": "launch",
+            "mainClass": "Onex",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Onexi",
+            "request": "launch",
+            "mainClass": "Onexi",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Papubhai",
+            "request": "launch",
+            "mainClass": "Papubhai",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Patttern",
+            "request": "launch",
+            "mainClass": "Patttern",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Primeclass",
+            "request": "launch",
+            "mainClass": "Primeclass",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Deadlock1",
+            "request": "launch",
+            "mainClass": "RameshSir.Deadlock1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Exception1",
+            "request": "launch",
+            "mainClass": "RameshSir.Exception1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "G1",
+            "request": "launch",
+            "mainClass": "RameshSir.G1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "G2",
+            "request": "launch",
+            "mainClass": "RameshSir.G2",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "G3",
+            "request": "launch",
+            "mainClass": "RameshSir.G3",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "G4",
+            "request": "launch",
+            "mainClass": "RameshSir.G4",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Synchro1",
+            "request": "launch",
+            "mainClass": "RameshSir.Synchro1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Thread1",
+            "request": "launch",
+            "mainClass": "RameshSir.Thread1",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Readkeyboard",
+            "request": "launch",
+            "mainClass": "Readkeyboard",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Rectanglearea",
+            "request": "launch",
+            "mainClass": "Rectanglearea",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Reversenumber",
+            "request": "launch",
+            "mainClass": "Reversenumber",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Seven",
+            "request": "launch",
+            "mainClass": "Seven",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Simpleintrest",
+            "request": "launch",
+            "mainClass": "Simpleintrest",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Six",
+            "request": "launch",
+            "mainClass": "Six",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sixa",
+            "request": "launch",
+            "mainClass": "Sixa",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sixb",
+            "request": "launch",
+            "mainClass": "Sixb",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sixc",
+            "request": "launch",
+            "mainClass": "Sixc",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sixd",
+            "request": "launch",
+            "mainClass": "Sixd",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sixe",
+            "request": "launch",
+            "mainClass": "Sixe",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Stringfun",
+            "request": "launch",
+            "mainClass": "Stringfun",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sumofdigit",
+            "request": "launch",
+            "mainClass": "Sumofdigit",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Sumv",
+            "request": "launch",
+            "mainClass": "Sumv",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Switchcase",
+            "request": "launch",
+            "mainClass": "Switchcase",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Tempconvert",
+            "request": "launch",
+            "mainClass": "Tempconvert",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Ten",
+            "request": "launch",
+            "mainClass": "Ten",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "Three",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Twelevea",
+            "request": "launch",
+            "mainClass": "Twelevea",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Tweleveb",
+            "request": "launch",
+            "mainClass": "Tweleveb",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "Twodarray",
+            "request": "launch",
+            "mainClass": "Twodarray",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "prakash java_88ad2111"
+        },
+        {
+            "type": "java",
+            "name": "reverseclass",
+            "request": "launch",
+            "mainClass": "reverseclass",
+            "projectName": "prakash java_88ad2111"
+        }
+    ]
+}
